@@ -1,0 +1,1 @@
+give @p minecraft:repeating_command_block 1 0 {BlockEntityTag:{Command:"function ftmc:subwaybuilder/wild_dcontrol/put",auto:1},display:{Name:"Minecart Direction Control",Lore:["礦車順向裝置"]}}

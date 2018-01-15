@@ -1,0 +1,1 @@
+give @p minecraft:command_block 1 0 {BlockEntityTag:{Command:"function ftmc:subwaybuilder/wild_stopper_long/put",auto:1},display:{Name:"Minecart Stopper (TRTC-like)",Lore:["礦車發車指令 (仿台北捷運)"]}}

@@ -1,0 +1,1 @@
+setblock ~ ~ ~ minecraft:command_block facing=east replace {Command:"function ftmc:subwayengine/subwayauto/stop_east",auto:0}

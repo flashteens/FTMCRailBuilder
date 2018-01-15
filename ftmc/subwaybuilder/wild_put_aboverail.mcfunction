@@ -1,0 +1,1 @@
+setblock ~ ~1 ~ minecraft:detector_rail 0 keep

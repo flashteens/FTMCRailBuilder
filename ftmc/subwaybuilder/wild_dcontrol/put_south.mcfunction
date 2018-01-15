@@ -1,0 +1,1 @@
+setblock ~ ~ ~ minecraft:repeating_command_block facing=south replace {Command:"entitydata @e[type=minecart,r=2] {Motion:[0d,0d,1d]}",auto:0}
