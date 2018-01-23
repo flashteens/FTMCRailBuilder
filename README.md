@@ -1,6 +1,6 @@
 # [FTMC Railway Builder Tool](https://www.planetminecraft.com/mod/1-12-x-vanilla-mod-fully-automatic-minecart-railway-builder-tool/)
 (applicable for Minecraft Java Edition 1.12.x)<br>
-Snapshot v0.1 Updated: Jan. 4, 2018<br>
+Snapshot v0.1.8 Updated: Jan. 23, 2018<br>
 (Added to GitHub on Jan. 15, 2018)<br>
 Here is the source code for the [Fully-Automatic Minecart Railway Builder Tool](https://www.planetminecraft.com/mod/1-12-x-vanilla-mod-fully-automatic-minecart-railway-builder-tool/) available on PlanetMinecraft.
 * Please ensure that the original author **FlashTeens Chiang** should be referenced in your code when applying this tool.
